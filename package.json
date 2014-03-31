@@ -1,43 +1,34 @@
 {
-  "name": "docpad-plugin-eco",
+  "name": "docpad-plugin-ect",
   "version": "2.0.3",
-  "description": "Adds support for the Eco templating engine to DocPad.",
-  "homepage": "http://docpad.org/plugin/eco",
+  "description": "Adds support for the ECT templating engine to DocPad.",
+  "homepage": "https://github.com/jeremyfa/docpad-plugin-ect",
   "license": {
     "type": "MIT"
-  },
-  "badges": {
-    "travis": true,
-    "npm": true,
-    "david": true,
-    "daviddev": true,
-    "gittip": "docpad",
-    "flattr": "344188/balupton-on-Flattr",
-    "paypal": "QB8GQPZAH84N6",
-    "bitcoin": "https://coinbase.com/checkouts/9ef59f5479eec1d97d63382c9ebcb93a"
   },
   "keywords": [
     "docpad",
     "docpad-plugin",
-    "eco",
+    "ect",
     "templating",
     "templates",
     "render",
     "rendering"
   ],
-  "author": "2012+ Bevry Pty Ltd <us@bevry.me> (http://bevry.me), 2011 Benjamin Lupton <b@lupton.cc> (http://balupton.com)",
+  "author": "2014+ Jeremy Faivre <contact@jeremyfa.com> (http://jeremyfa.com), 2012+ Bevry Pty Ltd <us@bevry.me> (http://bevry.me), 2011 Benjamin Lupton <b@lupton.cc> (http://balupton.com)",
   "maintainers": [
-    "Benjamin Lupton <b@lupton.cc> (https://github.com/balupton)"
+    "Jeremy Faivre <contact@jeremyfa.com> (https://github.com/jeremyfa)"
   ],
   "contributors": [
+    "Jeremy Faivre <contact@jeremyfa.com> (https://github.com/jeremyfa)",
     "Benjamin Lupton <b@lupton.cc> (https://github.com/balupton)"
   ],
   "bugs": {
-    "url": "https://github.com/docpad/docpad-plugin-eco/issues"
+    "url": "https://github.com/jeremyfa/docpad-plugin-ect/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/docpad/docpad-plugin-eco.git"
+    "url": "https://github.com/jeremyfa/docpad-plugin-ect.git"
   },
   "engines": {
     "node": ">=0.4"
@@ -46,15 +37,15 @@
     "docpad": "6"
   },
   "dependencies": {
-    "eco": "~1.1.0"
+    "ect": "^0.5.6"
   },
   "devDependencies": {
     "docpad": "6",
     "coffee-script": "~1.6.3",
     "projectz": "~0.3.9"
   },
-  "main": "./out/eco.plugin.js",
+  "main": "./out/ect.plugin.js",
   "scripts": {
-    "test": "node ./out/eco.test.js"
+    "test": "node ./out/ect.test.js"
   }
 }

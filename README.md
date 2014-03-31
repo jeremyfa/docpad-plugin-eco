@@ -58,6 +58,11 @@ These amazing people have contributed code to this project:
 
 ## License
 
+
+Licensed under the incredibly [permissive](http://en.wikipedia.org/wiki/Permissive_free_software_licence) [MIT license](http://creativecommons.org/licenses/MIT/)
+
+Copyright &copy; 2014+ Jeremy Faivre <contact@jeremyfa.com> (http://jeremyfa.com)
+
 **Original license from [ECO Plugin for Docpad](https://github.com/docpad/docpad-plugin-eco):**
 
 Licensed under the incredibly [permissive](http://en.wikipedia.org/wiki/Permissive_free_software_licence) [MIT license](http://creativecommons.org/licenses/MIT/)

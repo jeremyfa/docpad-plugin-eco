@@ -3,6 +3,7 @@
 
 # License
 
+Copyright &copy; 2014+ Jeremy Faivre <contact@jeremyfa.com> (http://jeremyfa.com)
 Copyright &copy; 2012+ Bevry Pty Ltd <us@bevry.me> (http://bevry.me)
 <br/>Copyright &copy; 2011 Benjamin Lupton <b@lupton.cc> (http://balupton.com)
 
