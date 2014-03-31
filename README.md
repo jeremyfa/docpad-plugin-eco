@@ -7,6 +7,8 @@ Adds support for the [ECT](http://ectjs.com/) (Fastest JavaScript template engin
 
 Convention:  `.anything.ect`
 
+_Important: advanced features of ECT like partials and extends are not implemented yet because they require the use of separate template files, which is not the way Docpad seems to work: it provides only 1 file at a time to the plugin (which makes sense)._
+
 ## Install
 
 ```

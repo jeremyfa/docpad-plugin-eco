@@ -1,6 +1,6 @@
 {
   "name": "docpad-plugin-ect",
-  "version": "2.0.3",
+  "version": "2.0.0",
   "description": "Adds support for the ECT templating engine to DocPad.",
   "homepage": "https://github.com/jeremyfa/docpad-plugin-ect",
   "license": {
